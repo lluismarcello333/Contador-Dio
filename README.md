@@ -1,18 +1,9 @@
-## Getting Started
+# **Projeto DesafioControleFluxo - Documentação**
+## Visão Geral
+Este projeto em Java tem como objetivo verificar a validade de dois parâmetros inteiros recebidos via terminal e realizar uma contagem baseada nesses valores. Se o primeiro parâmetro for maior que o segundo, o sistema lançará uma exceção customizada denominada ParametrosInvalidosException.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+##Estrutura do Projeto
+O projeto consiste em duas classes principais:
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+1. ParametrosInvalidosException.java: Define a exceção customizada.
+2. Contador.java: Contém a lógica principal do programa, incluindo a leitura de entrada do usuário e a execução da contagem.
