@@ -113,14 +113,14 @@ Digite o primeiro parâmetro
 Digite o segundo parâmetro
 10
 ```
-    * Saída:
-    ```
-    Imprimindo o número 1
-    Imprimindo o número 2
-    Imprimindo o número 3
-    Imprimindo o número 4
-    Imprimindo o número 5
-    ```
+* Saída:
+```
+Imprimindo o número 1
+Imprimindo o número 2
+Imprimindo o número 3
+Imprimindo o número 4
+Imprimindo o número 5
+```
 * Entrada inválida
 ```
 Digite o primeiro parâmetro
@@ -128,10 +128,10 @@ Digite o primeiro parâmetro
 Digite o segundo parâmetro
 10
 ```
-    * Saída:
-    ```
-    O segundo parâmetro deve ser maior que o primeiro
-    ```
+* Saída:
+```
+O segundo parâmetro deve ser maior que o primeiro
+```
 
 ## Considerações Finais
 Este projeto foi desenvolvido para demonstrar o uso de exceções customizadas e a lógica de controle de fluxo em Java. A estrutura modular facilita a manutenção e a expansão do código conforme necessário.
